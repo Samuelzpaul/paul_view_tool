@@ -19,8 +19,9 @@ Or install it yourself as:
     $ gem install paul_view_tool
 
 ## Usage
-
-TODO: Write usage instructions here
+```ruby
+PaulViewTool::Renderer.copyright "Sam Paul", "All rights reserved"
+```
 
 ## Development
 
